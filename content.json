@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "title": "Nova OS Brand System",
+      "tag": "Design System",
+      "description": "A motion-first, accessible system with cinematic theming and GPU-optimized animations.",
+      "image": "https://images.unsplash.com/photo-1545235617-9465d2a55698?q=80&w=1600&auto=format&fit=crop",
+      "url": "https://example.com/nova"
+    },
+    {
+      "title": "Atlas Health Patient App",
+      "tag": "Product Design",
+      "description": "Streamlined care journeys with real-time feedback and clear, bold typography.",
+      "image": "https://images.unsplash.com/photo-1526498460520-4c246339dccb?q=80&w=1600&auto=format&fit=crop",
+      "url": "https://example.com/atlas"
+    },
+    {
+      "title": "Flow AI Console",
+      "tag": "UX Engineering",
+      "description": "High-performance dashboard for training conversational models with live previews.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop",
+      "url": "https://example.com/flow"
+    }
+  ]
+}
